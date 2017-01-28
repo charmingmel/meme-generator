@@ -1,0 +1,22 @@
+{
+  "name": "meme-generator",
+  "homepage": "https://github.com/charmingmel/meme-generator",
+  "authors": [
+    "Tijesunimi Peters <tijesunimi.peters@andela.com>",
+    "Charmingmel <mel.michael007@gmail.com>"
+  ],
+  "description": "very dynamic meme generator",
+  "main": "app.js",
+  "keywords": [
+    "meme",
+    "generator"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

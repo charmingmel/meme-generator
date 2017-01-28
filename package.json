@@ -1,0 +1,23 @@
+{
+  "name": "meme-generator",
+  "version": "1.0.0",
+  "description": "very dynamic meme generator",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charmingmel/meme-generator.git"
+  },
+  "keywords": [
+    "meme",
+    "generator"
+  ],
+  "author": "Charming mel <mel.michael007@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charmingmel/meme-generator/issues"
+  },
+  "homepage": "https://github.com/charmingmel/meme-generator#readme"
+}
